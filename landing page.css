@@ -204,19 +204,25 @@ main {
 
 .form input[type="text"]{
     height: 70px;
-    width: 100%;
+    width: 95%;
     border-radius: 10px;
     border: 1px solid #D6DDED;
     display: block;
+    font-size: 20px;
+    font-weight: 200;
+    padding-left: 32px;
 }
 
 
 .form input[type="email"]{
     height: 70px;
-    width: 100%;
+    width: 95%;
     border-radius: 10px;
     border: 1px solid #D6DDED;
     display: block;
+    font-size: 20px;
+    font-weight: 200;
+    padding-left: 32px;
 }
 
 .form input[type="textarea"]{
@@ -225,6 +231,9 @@ main {
     border-radius: 10px;
     border: 1px solid #D6DDED;
     display: block;
+    font-size: 20px;
+    font-weight: 200;
+    padding-left: 32px;
 }
 
 .btn-secondary-1 {
