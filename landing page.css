@@ -67,3 +67,40 @@ nav {
     cursor: pointer;
     margin-bottom: 150px;
 }
+
+/* action style */
+
+.action-banner {
+    display: flex;
+    justify-content: center;
+    padding: 60px;
+    gap: 200px;
+    margin: 90px 0px;
+}
+
+.section-image-container .action-content-image {
+    height: 328px;
+    width: 403px;
+    border-radius: 45px;
+}
+
+.action-content-title {
+    font-size: 42px;
+    font-weight: 800;
+    color: #252432;
+    margin-bottom: 23px;
+}
+
+.action-content-text {
+    font-size: 24px;
+    font-weight: 100;
+    color: #252432;
+    /* margin-top: 20px; */
+    width: 517px;
+    height: 60px;
+    margin-bottom: 50px;
+}
+
+.action-content {
+    align-items: left;
+}
