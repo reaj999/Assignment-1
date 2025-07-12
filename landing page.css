@@ -293,3 +293,78 @@ footer {
     flex-direction: column;
     align-items: center;
 }
+
+/* review section */
+
+.review{
+    max-width: 1140px;
+    align-items: center;
+    margin: 0px 175px;
+
+}
+
+.review-title{
+    font-size: 42px;
+    font-weight: 800;
+    color: #252432;
+    text-align: center;
+    margin-bottom: 50px;
+}
+
+.reviewer-title{
+    font-size: 24px;
+    font-weight: 600;
+    color: #252432;
+    margin-bottom: 10px;
+}
+
+.reviewer-text{
+    font-size: 16px;
+    font-weight: 200;
+    color: #252432;
+    margin-bottom: 20px;
+}
+
+.face{
+    width: 50px;
+    height: 50px;
+    border-radius: 50%;
+}
+
+.reviewer-name{
+    font-size: 14px;
+    font-weight: 500;
+    color: #252432;
+    margin-bottom: 5px;
+}
+
+.review-date{
+    font-size: 12px;
+    font-weight: 400;
+    color: rgba(37, 36, 50, 0.5);
+    margin-bottom: 20px;
+}
+
+.reviewer-details-photo{
+    display: flex;
+    align-items: center;
+    margin-bottom: 20px;
+    gap: 20px;
+}
+
+.review-container{
+    /* width: 367px;
+    height: 243px; */
+    border-radius: 14px;
+    box-shadow: #000000;
+    padding: 24px;
+    box-shadow: 0px 4px 4px 0px rgba(0, 0, 0, 0.25);
+}
+
+.master-container {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    gap: 50px;
+    margin: 0px 175px;
+}
