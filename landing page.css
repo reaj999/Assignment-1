@@ -168,12 +168,14 @@ main {
     font-weight: 800;
     color: #4E47FF;
     margin-bottom: 10px;
+    text-align: center;
 }
 
 .productive-user-subtitle{
     font-size: 20px;
     font-weight: 200;
     color: rgba(0, 0, 0, 0.5);
+    text-align: center;
     /* margin-bottom: 50px; */
 }
 
@@ -230,7 +232,7 @@ main {
     color: white;
     /* height: 48px;
     width: 132px; */
-    padding: 19px 310px;
+    padding: 19px 304px;
     border-radius: 10px;
     border: none;
     cursor: pointer;
