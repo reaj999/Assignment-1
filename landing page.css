@@ -176,3 +176,68 @@ main {
     color: rgba(0, 0, 0, 0.5);
     /* margin-bottom: 50px; */
 }
+
+
+/* get in touch section */
+
+.form-left-column{
+    font-size: 97px;
+    font-weight: 800;
+    color: #000000;
+    align-items: center;
+}
+
+.get-in-touch-section{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin: 0px 150px;
+    gap: 115px;
+}
+
+.form-colomn{
+    width: 50%;
+    align-items: center;
+}
+
+.form input[type="text"]{
+    height: 70px;
+    width: 100%;
+    border-radius: 10px;
+    border: 1px solid #D6DDED;
+    display: block;
+}
+
+.form input[type="email"]{
+    height: 70px;
+    width: 100%;
+    border-radius: 10px;
+    border: 1px solid #D6DDED;
+    display: block;
+}
+
+.form input[type="textarea"]{
+    height: 135px;
+    width: 100%;
+    border-radius: 10px;
+    border: 1px solid #D6DDED;
+    display: block;
+}
+
+.btn-secondary-1 {
+    background-color: #4E47FF;
+    color: white;
+    /* height: 48px;
+    width: 132px; */
+    padding: 19px 310px;
+    border-radius: 10px;
+    border: none;
+    cursor: pointer;
+    margin-top: 20px;
+    margin-bottom: 150px;
+}
+
+.btn-secondary-1:hover {
+    background-color: rgb(252, 233, 24);
+    color: black;
+}
